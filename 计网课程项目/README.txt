@@ -1,0 +1,2 @@
+本项目是本人的计算机网络课程设计。
+HTTPProxy为项目源码。HTTPProxy.jar为可执行文件，但需要电脑有java环境，操作方法在项目报告中。HTPPProxy.jar也存在于HTTPProxy/out文件夹下。
